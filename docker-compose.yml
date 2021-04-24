@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  pos:
+    build: .
+    container_name: shiba-book-shop
+    ports:
+      - '80:80'
