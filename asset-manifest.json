@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shiba-book-shop/static/css/main.cea0c715.chunk.css",
+    "main.js": "/shiba-book-shop/static/js/main.910c724d.chunk.js",
+    "main.js.map": "/shiba-book-shop/static/js/main.910c724d.chunk.js.map",
+    "runtime-main.js": "/shiba-book-shop/static/js/runtime-main.298310d0.js",
+    "runtime-main.js.map": "/shiba-book-shop/static/js/runtime-main.298310d0.js.map",
+    "static/js/2.a8a870c2.chunk.js": "/shiba-book-shop/static/js/2.a8a870c2.chunk.js",
+    "static/js/2.a8a870c2.chunk.js.map": "/shiba-book-shop/static/js/2.a8a870c2.chunk.js.map",
+    "static/js/3.58c33505.chunk.js": "/shiba-book-shop/static/js/3.58c33505.chunk.js",
+    "static/js/3.58c33505.chunk.js.map": "/shiba-book-shop/static/js/3.58c33505.chunk.js.map",
+    "index.html": "/shiba-book-shop/index.html",
+    "static/css/main.cea0c715.chunk.css.map": "/shiba-book-shop/static/css/main.cea0c715.chunk.css.map",
+    "static/js/2.a8a870c2.chunk.js.LICENSE.txt": "/shiba-book-shop/static/js/2.a8a870c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.298310d0.js",
+    "static/js/2.a8a870c2.chunk.js",
+    "static/css/main.cea0c715.chunk.css",
+    "static/js/main.910c724d.chunk.js"
+  ]
+}
